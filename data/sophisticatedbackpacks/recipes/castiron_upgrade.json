@@ -1,0 +1,19 @@
+{
+    "type": "sophisticatedbackpacks:backpack_upgrade",
+    "pattern": [
+      "FFF",
+      "FBF",
+      "FFF"
+    ],
+    "key": {
+      "F": {
+        "item": "tfc:metal/ingot/cast_iron"
+      },
+      "B": {
+        "item": "sophisticatedbackpacks:backpack"
+      }
+    },
+    "result": {
+      "item": "sophisticatedbackpacks:iron_backpack"
+    }
+}

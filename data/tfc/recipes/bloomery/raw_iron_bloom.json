@@ -8,7 +8,10 @@
       "amount": 100
     },
     "catalyst": {
-      "tag": "tfc:bloomery_fuel"
+      "ingredient": {
+        "tag": "tfc:bloomery_fuel"
+      },
+      "count": 2
     },
     "duration": 15000
 }

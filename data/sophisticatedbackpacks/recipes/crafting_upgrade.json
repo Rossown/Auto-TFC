@@ -14,7 +14,7 @@
         "tag": "forge:chests"
       },
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "T": {
         "item": "minecraft:crafting_table"

@@ -17,7 +17,7 @@
         "tag": "forge:ender_pearls"
       },
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "R": {
         "tag": "forge:dusts/redstone"

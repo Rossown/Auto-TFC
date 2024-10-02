@@ -14,7 +14,7 @@
         "tag": "forge:chests/wooden"
       },
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "P": {
         "item": "minecraft:piston"

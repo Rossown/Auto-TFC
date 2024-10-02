@@ -8,10 +8,10 @@
     ],
     "key": {
       "E": {
-        "tag": "minecraft:rotten_flesh"
+        "item": "minecraft:rotten_flesh"
       },
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "L": {
         "tag": "forge:gems/lapis"

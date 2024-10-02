@@ -8,7 +8,7 @@
     ],
     "key": {
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "L": {
         "tag": "forge:leather"

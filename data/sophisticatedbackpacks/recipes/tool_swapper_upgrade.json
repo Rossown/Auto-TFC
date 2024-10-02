@@ -14,7 +14,7 @@
         "item": "sophisticatedbackpacks:upgrade_base"
       },
       "I": {
-        "tag": "tfc:metal/ingot/cast_iron"
+        "item": "tfc:metal/ingot/cast_iron"
       },
       "P": {
         "item": "tfc:metal/pickaxe/copper"

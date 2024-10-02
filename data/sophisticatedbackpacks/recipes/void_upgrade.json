@@ -11,7 +11,7 @@
         "item": "sophisticatedbackpacks:upgrade_base"
       },
       "E": {
-        "tag": "minecraft:rotten_flesh"
+        "item": "minecraft:rotten_flesh"
       },
       "O": {
         "tag": "forge:obsidian"

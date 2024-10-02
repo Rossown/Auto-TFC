@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "sophisticatedcore:item_enabled",
+        "itemRegistryName": "sophisticatedbackpacks:tool_swapper_upgrade"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "tfc:metal/axe/copper"
+      },
+      "B": {
+        "item": "sophisticatedbackpacks:upgrade_base"
+      },
+      "I": {
+        "item": "tfc:metal/ingot/cast_iron"
+      },
+      "P": {
+        "item": "tfc:metal/pickaxe/copper"
+      },
+      "R": {
+        "tag": "forge:dusts/redstone"
+      },
+      "S": {
+        "item": "tfc:metal/shovel/copper"
+      },
+      "W": {
+        "item": "tfc:metal/sword/copper"
+      }
+    },
+    "pattern": [
+      "RWR",
+      "PBA",
+      "ISI"
+    ],
+    "result": {
+      "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+    }
+  }
